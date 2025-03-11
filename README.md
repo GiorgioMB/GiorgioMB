@@ -6,7 +6,6 @@
 🏋️ Passionate about statistics, math, and lifting heavy things  
 
 ## 🔬 Research & Projects  
-🚀 Check out some of my most important repositories:  
 - 📂 [**UniversityProjects**](https://github.com/GiorgioMB/UniversityProjects) – A collection of my undergraduate coursework and research projects  
 - 🔗 [**bridgesamplingparetok**](https://github.com/GiorgioMB/bridgesamplingparetok) – Contribution from my summer internship at Aalto University  
 
