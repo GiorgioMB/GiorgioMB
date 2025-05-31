@@ -7,7 +7,7 @@
 
 ## 🔬 Research & Projects  
 - 📂 [**UniversityProjects**](https://github.com/GiorgioMB/UniversityProjects) – A collection of my undergraduate coursework and research projects  
-- 🔗 [**bridgesamplingparetok**](https://github.com/GiorgioMB/bridgesamplingparetok) [**bridgesampling_paper_code**](https://github.com/GiorgioMB/bridgesampling_paper_code)– Contribution from my summer internship at Aalto University  
+- 🔗 [**bridgesamplingparetok**](https://github.com/GiorgioMB/bridgesamplingparetok), [**bridgesampling_paper_code**](https://github.com/GiorgioMB/bridgesampling_paper_code)– Contributions from my summer internship at Aalto University  
 
 ## 📫 Connect with Me 
 - ✉️ **Email:** gmicaletto@uchicago.edu
