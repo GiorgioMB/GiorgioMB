@@ -18,8 +18,8 @@
 <br>
 "We thank the reviewer for their insightful comments..."
 <br><br>
-<a href="https://giorgiomb.github.io/doom/">
-  <img src="https://img.shields.io/badge/REBUTTAL_MODE-RIP_AND_TEAR-red?style=for-the-badge&logo=doom" alt="Play Doom">
+<a href="http://giorgiomb.github.io/GiorgioMB/doom/">
+  <img src="https://img.shields.io/badge/REBUTTAL_MODE-DEFINITELY_NOT_DOOM-red?style=for-the-badge&logo=doom" alt="Play Doom">
 </a>
 <br>
 <i>(Addressing the comments, one demon at a time.)</i>
