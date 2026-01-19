@@ -12,13 +12,13 @@
     <script>
         Dos(document.getElementById("jsdos"), {
             wdosboxUrl: "https://js-dos.com/6.22/current/wdosbox.js",
-            cycles: 1000,
-            autolock: true,
+            cycles: "auto", 
+            autolock: false,
         }).ready(function (fs, main) {
-            // LOAD THE GAME DATA HERE
             fs.extract("doom2.zip").then(function () {
-                main(["-c", "DOOM2.EXE"]).then(function (ci) {
-                    // Game loop started
+                // We add '-nosound' to see if audio is the valid crasher
+                main(["-c", "DOOM2.EXE -nosound"]).then(function (ci) {
+                    // Game loop
                 });
             });
         });
