@@ -10,25 +10,37 @@
             margin: 0;
             padding: 0;
             background: #000;
-            /* This centers the game container vertically and horizontally */
+            overflow: hidden; /* vital: stops scrollbars from appearing */
+            /* Center the game in the middle of the black screen */
             display: flex;
             justify-content: center;
             align-items: center;
         }
+
         canvas {
-            /* Lock the aspect ratio to 4:3 (Classic DOS standard) */
+            /* Force the classic DOS aspect ratio */
             aspect-ratio: 4 / 3;
             
-            /* Ensure it fits within the screen without cutting off */
-            max-width: 100%;
-            max-height: 100%;
-            
-            /* Let the browser calculate exact pixel size based on the ratio above */
-            width: auto;
-            height: auto;
-            
-            /* Optional: Makes the pixels look crisp instead of blurry */
-            image-rendering: pixelated; 
+            /* Make pixels crisp */
+            image-rendering: pixelated;
+        }
+
+        /* RULE 1: If screen is WIDER than the game (e.g. Widescreen Monitor) 
+           Constraint: Height is the limit. */
+        @media (min-aspect-ratio: 4/3) {
+            canvas {
+                height: 100% !important;
+                width: auto !important;
+            }
+        }
+
+        /* RULE 2: If screen is TALLER than the game (e.g. Mobile Phone) 
+           Constraint: Width is the limit. */
+        @media (max-aspect-ratio: 4/3) {
+            canvas {
+                width: 100% !important;
+                height: auto !important;
+            }
         }
     </style>
 </head>
@@ -41,7 +53,6 @@
             autolock: false,
         }).ready(function (fs, main) {
             fs.extract("doom2.zip").then(function () {
-                // This command launches the game immediately
                 main(["-c", "DOOM2.EXE"]).then(function (ci) {
                     // Game loop running
                 });
