@@ -10,36 +10,45 @@
             margin: 0;
             padding: 0;
             background: #000;
-            overflow: hidden; /* vital: stops scrollbars from appearing */
-            /* Center the game in the middle of the black screen */
+            overflow: hidden; /* vital: stops scrollbars */
+            
+            /* Flexbox to perfectly center the canvas in the black void */
             display: flex;
             justify-content: center;
             align-items: center;
         }
 
         canvas {
-            /* Force the classic DOS aspect ratio */
-            aspect-ratio: 4 / 3;
+            display: block;
+            /* Ensure crisp pixels for that retro feel */
+            image-rendering: pixelated; 
+            image-rendering: crisp-edges;
             
-            /* Make pixels crisp */
-            image-rendering: pixelated;
+            /* Shadows make the viewport pop against the black background */
+            box-shadow: 0 0 20px rgba(0,0,0,0.5);
         }
 
-        /* RULE 1: If screen is WIDER than the game (e.g. Widescreen Monitor) 
-           Constraint: Height is the limit. */
-        @media (min-aspect-ratio: 4/3) {
+        /* GEOMETRY LOGIC:
+           Target Aspect Ratio: 4/3 (1.333...)
+        */
+
+        /* CASE 1: The screen is TALLER than 4:3 (e.g., Mobile phones)
+           Limiting factor: Width.
+           Set Width to 100%, calculate Height to maintain ratio. */
+        @media (max-aspect-ratio: 4/3) {
             canvas {
-                height: 100% !important;
-                width: auto !important;
+                width: 100vw !important;
+                height: calc(100vw * 0.75) !important; /* 100vw * (3/4) */
             }
         }
 
-        /* RULE 2: If screen is TALLER than the game (e.g. Mobile Phone) 
-           Constraint: Width is the limit. */
-        @media (max-aspect-ratio: 4/3) {
+        /* CASE 2: The screen is WIDER than 4:3 (e.g., Laptops, Monitors)
+           Limiting factor: Height.
+           Set Height to 100%, calculate Width to maintain ratio. */
+        @media (min-aspect-ratio: 4/3) {
             canvas {
-                width: 100% !important;
-                height: auto !important;
+                height: 100vh !important;
+                width: calc(100vh * 1.333) !important; /* 100vh * (4/3) */
             }
         }
     </style>
