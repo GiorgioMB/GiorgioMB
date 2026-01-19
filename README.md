@@ -13,14 +13,18 @@
 - ✉️ **Email:** gmicaletto@uchicago.edu
 - 💼 LinkedIn: [linkedin.com/in/giorgio-micaletto](#) 
 
+
+
+
 <details>
-<summary><b>📄 Draft Response to Reviewer 2 (Click to Expand)</b></summary>
+<summary><b>?</b></summary>
 <br>
-"We thank the reviewer for their insightful comments..."
+<h3>📄 Draft Response to Reviewer 2</h3>
+"We thank the reviewer for their insightful comments. Regarding the convergence rate..."
 <br><br>
 <a href="http://giorgiomb.github.io/GiorgioMB/doom/">
-  <img src="https://img.shields.io/badge/REBUTTAL_MODE-DEFINITELY_NOT_DOOM-red?style=for-the-badge&logo=doom" alt="Play Doom">
+  <img src="https://img.shields.io/badge/STATUS-IGNORING_RESPONSIBILITIES-critical?style=for-the-badge&logo=doom&logoColor=white" alt="Procrastinate">
 </a>
 <br>
-<i>(Addressing the comments, one demon at a time.)</i>
+<i>"It's not avoidance, it's maximizing the expected utility of my office hours."</i>
 </details>
