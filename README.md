@@ -19,8 +19,7 @@
 <details>
 <summary><b>?</b></summary>
 <br>
-<h3>📄 Draft Response to Reviewer 2</h3>
-"It's not avoidance, it's maximizing the expected utility of my office hours."
+<i>"It's not avoidance, it's maximizing the expected utility of my office hours."</i>
 <br><br>
 <a href="http://giorgiomb.github.io/GiorgioMB/doom/">
   <img src="https://img.shields.io/badge/STATUS-IGNORING_RESPONSIBILITIES-critical?style=for-the-badge&logo=doom&logoColor=white" alt="Procrastinate">
