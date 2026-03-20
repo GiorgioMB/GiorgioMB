@@ -9,7 +9,7 @@
 - 📂 [**UniversityProjects**](https://github.com/GiorgioMB/UniversityProjects) – A collection of my undergraduate coursework and research projects  
 - 📂 [**GradProjects**](https://github.com/GiorgioMB/GradProjects) – A collection of my graduate projects
 - 📄 [**bridgesamplingparetok**](https://github.com/GiorgioMB/bridgesamplingparetok), [**bridgesampling_paper_code**](https://github.com/GiorgioMB/bridgesampling_paper_code) – [Project](https://arxiv.org/abs/2508.14487) I took part in during my stay at Aalto University
-- 📄 [**curvature-transfer-code**](https://github.com/GiorgioMB/curvature-transfer-code) – Codebase contributions for the [arXiv:2603.13535](https://arxiv.org/abs/2603.13535) preprint I worked as an undergraduate student
+- 📄 [**curvature-transfer-code**](https://github.com/GiorgioMB/curvature-transfer-code) – Codebase contributions for the [arXiv:2603.13535](https://arxiv.org/abs/2603.13535) preprint I worked as an undergraduate
 
 ## 📫 Connect with Me 
 - ✉️ **Email:** gmicaletto@uchicago.edu
