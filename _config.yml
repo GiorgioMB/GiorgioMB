@@ -11,7 +11,7 @@ description: >- # This renders below your title or in SEO tags. Keep it under 16
 # -----------------------
 # URL Settings
 # -----------------------
-baseurl: "" 
+baseurl: "/GiorgioMB"
 url: "https://giorgiomb.github.io/"
 
 # -----------------------
