@@ -9,7 +9,7 @@
 - 📂 [**UndergradProjects**](https://github.com/GiorgioMB/UndergradProjects) – A collection of my undergraduate coursework and research projects  
 - 📂 [**GradProjects**](https://github.com/GiorgioMB/GradProjects) – A collection of my graduate projects
 - 📄 [**bridgesamplingparetok**](https://github.com/GiorgioMB/bridgesamplingparetok), [**bridgesampling_paper_code**](https://github.com/GiorgioMB/bridgesampling_paper_code) – [Project](https://arxiv.org/abs/2508.14487) I took part in during my stay at Aalto University
-- 📄 [**curvature-transfer-code**](https://github.com/GiorgioMB/curvature-transfer-code) – Codebase contributions for our NeurIPS Geometric Distributional Deep Learning Workshop paper ([arXiv:2603.13535](https://arxiv.org/abs/2603.13535))
+- 📄 [**curvature-transfer-code**](https://github.com/GiorgioMB/curvature-transfer-code), [**BF-OR-lean**](https://github.com/GiorgioMB/BF-OR-Lean) – Experiments and formalization for our preprint ([arXiv:2603.13535](https://arxiv.org/abs/2603.13535))
 
 ## 📫 Connect with Me 
 - ✉️ **Email:** gmicaletto@uchicago.edu
