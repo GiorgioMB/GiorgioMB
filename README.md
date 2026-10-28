@@ -24,7 +24,7 @@
 <I>"Maximizing the expected utility of my office hours."</i>
 <br><br>
 <a href="http://giorgiomb.github.io/GiorgioMB/doom/">
-  <img src="https://img.shields.io/badge/STATUS-CLICK ME-critical?style=for-the-badge&logo=doom&logoColor=white" alt="Procrastinate">
+  <img src="https://img.shields.io/badge/??-??-critical?style=for-the-badge&logo=doom&logoColor=white" alt="Procrastinate">
 </a>
 <br>
 </details>
