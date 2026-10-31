@@ -13,7 +13,7 @@
 
 ## 📫 Connect with Me 
 - ✉️ **Email:** gmicaletto@uchicago.edu
-- 💼 LinkedIn: [linkedin.com/in/giorgio-micaletto](linkedin.com/in/giorgio-micaletto) 
+- 💼 LinkedIn: [linkedin.com/in/giorgio-micaletto](https://linkedin.com/in/giorgio-micaletto) 
 
 
 
