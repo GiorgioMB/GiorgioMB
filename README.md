@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Giorgio Micaletto
 
-🎓 **PhD Student in Statistics @ The University of Chicago**  
+🎓 **PhD Candidate in Statistics @ The University of Chicago**  
 📊 Research in high-dimensional statistics, Bayesian methods, and geometric analysis  
 🖋️ Exploring Ricci flow, discrete manifolds, and inference on complex structures  
 🏋️ Passionate about statistics, math, and lifting heavy things  
