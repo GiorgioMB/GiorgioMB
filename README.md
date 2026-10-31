@@ -6,10 +6,9 @@
 🏋️ Passionate about statistics, math, and lifting heavy things  
 
 ## 🔬 Research & Projects  
-- 📂 [**UndergradProjects**](https://github.com/GiorgioMB/UndergradProjects) – A collection of my undergraduate coursework and research projects  
-- 📂 [**GradProjects**](https://github.com/GiorgioMB/GradProjects) – A collection of my graduate projects
+- 📂 [**UndergradProjects**](https://github.com/GiorgioMB/UndergradProjects), [**GradProjects**](https://github.com/GiorgioMB/GradProjects) – Collections of coursework and research projects  
 - 📄 [**bridgesamplingparetok**](https://github.com/GiorgioMB/bridgesamplingparetok), [**bridgesampling_paper_code**](https://github.com/GiorgioMB/bridgesampling_paper_code) – [Project](https://arxiv.org/abs/2508.14487) I took part in during my stay at Aalto University
-- 📄 [**curvature-transfer-code**](https://github.com/GiorgioMB/curvature-transfer-code), [**BF-OR-lean**](https://github.com/GiorgioMB/BF-OR-Lean) – Experiments and formalization for our preprint ([arXiv:2603.13535](https://arxiv.org/abs/2603.13535))
+- 📄 [**curvature-transfer-code**](https://github.com/GiorgioMB/curvature-transfer-code), [**BF-OR-lean**](https://github.com/GiorgioMB/BF-OR-Lean) – Experiments and formalization for [arXiv:2603.13535](https://arxiv.org/abs/2603.13535)
 
 ## 📫 Connect with Me 
 - ✉️ **Email:** gmicaletto@uchicago.edu
