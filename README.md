@@ -1,29 +1,29 @@
-# 👋 Hi, I'm Giorgio Micaletto
+# Giorgio Micaletto
 
-🎓 **PhD Student in Statistics @ The University of Chicago**  
-📊 Research in high-dimensional statistics, Bayesian methods, and geometric analysis  
-🖋️ Exploring Ricci flow, discrete manifolds, and inference on complex structures  
-🏋️ Passionate about statistics, math, and lifting heavy things  
+PhD student in Statistics at the University of Chicago. Website: [giorgiomb.github.io](https://giorgiomb.github.io/).
 
-## 🔬 Research & Projects  
-- 📂 [**UndergradProjects**](https://github.com/GiorgioMB/UndergradProjects), [**GradProjects**](https://github.com/GiorgioMB/GradProjects) – Collections of coursework and research projects  
-- 📄 [**bridgesamplingparetok**](https://github.com/GiorgioMB/bridgesamplingparetok), [**bridgesampling_paper_code**](https://github.com/GiorgioMB/bridgesampling_paper_code) – [Project](https://arxiv.org/abs/2508.14487) I took part in during my stay at Aalto University
-- 📄 [**curvature-transfer-code**](https://github.com/GiorgioMB/curvature-transfer-code), [**BF-OR-lean**](https://github.com/GiorgioMB/BF-OR-Lean) – Experiments and formalization for [arXiv:2603.13535](https://arxiv.org/abs/2603.13535)
+My work is on results that can be checked rather than trusted: bounds that certify graph curvature without solving optimal transport problems, and diagnostics for when a Monte Carlo error estimate can be believed. Outside research I lift heavy things.
 
-## 📫 Connect with Me 
-- ✉️ **Email:** gmicaletto@uchicago.edu
-- 💼 LinkedIn: [linkedin.com/in/giorgio-micaletto](https://linkedin.com/in/giorgio-micaletto) 
+## Papers and code
 
+**From Proxy to Certificate: Two-Sided Ollivier–Ricci Bounds from Balanced Forman Curvature**, with Tebe Nigrelli ([arXiv:2603.13535](https://arxiv.org/abs/2603.13535)). The experiments are in [Curvature-Transfer-Code](https://github.com/GiorgioMB/Curvature-Transfer-Code), the Lean proof in [BF-OR-Lean](https://github.com/GiorgioMB/BF-OR-Lean), and the exact solver in [orcut](https://github.com/GiorgioMB/orcut).
 
+**Bridge Sampling Diagnostics**, with Aki Vehtari ([arXiv:2508.14487](https://arxiv.org/abs/2508.14487)). The code is in [bridgesampling_paper_code](https://github.com/GiorgioMB/bridgesampling_paper_code) and [bridgesamplingparetok](https://github.com/GiorgioMB/bridgesamplingparetok). The Monte Carlo standard error and a CmdStanR method are merged into the [bridgesampling](https://github.com/quentingronau/bridgesampling) R package.
 
+Coursework and smaller projects are in [UndergradProjects](https://github.com/GiorgioMB/UndergradProjects) and [GradProjects](https://github.com/GiorgioMB/GradProjects).
+
+## Contact
+
+E-mail: gmicaletto@uchicago.edu
+
+Elsewhere: [Google Scholar](https://scholar.google.com/citations?user=Wlw7t8wAAAAJ), [LinkedIn](https://linkedin.com/in/giorgio-micaletto)
 
 <details>
 <summary><b>?</b></summary>
 <br>
-<I>"Maximizing the expected utility of my office hours."</i>
+<i>"Maximizing the expected utility of my office hours."</i>
 <br><br>
-<a href="http://giorgiomb.github.io/GiorgioMB/doom/">
+<a href="https://giorgiomb.github.io/GiorgioMB/doom/">
   <img src="https://img.shields.io/badge/??-??-critical?style=for-the-badge&logo=doom&logoColor=white" alt="Procrastinate">
 </a>
-<br>
 </details>
